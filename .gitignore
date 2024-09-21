@@ -1,0 +1,10 @@
+*.txt
+.vscode
+*.o
+*.a
+*.png
+.DS_STORE
+oldReadMe.md
+screenshot.png
+pixel.ttf
+Sokoban
