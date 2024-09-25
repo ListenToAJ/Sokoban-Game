@@ -6,6 +6,8 @@ Sokoban puzzle game written in C++, the objective is to move all crates to corre
 
 First published in December 1982, Sokoban is a game in which you are a warehouse employee who has to move crates around onto specific targets.  This project was originally part of a coding course in university.  I recreated the game with the SFML graphics library.  
 
+![Gameplat](sokoban.gif)
+
 ## Getting Started
 
 ### Dependencies
